@@ -1,2 +1,2 @@
 # Snake
-Unity first project
+Playable link https://aigo-sama.itch.io/snake
